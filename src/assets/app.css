@@ -1,0 +1,10 @@
+img.invocieImg {
+    width: 100px;
+}
+
+.col-6.invoiceRight {
+    text-align-last: end;
+}
+label,span{
+    font-weight: bolder;
+}
